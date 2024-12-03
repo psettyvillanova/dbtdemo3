@@ -1,0 +1,7 @@
+version: 2
+    
+sources:
+  - name: mat_trak__
+    tables:
+      - name: calendar_wk
+      - name: calendar_wk2
